@@ -1,0 +1,5 @@
+Python is formally an interpreted language. Commands are executed through a piece of software
+known as Python interpreter. The interpreter receives a command, evaluates that command,
+and reports the result of the command. While the interpreter can be used interactively, a
+programmer typically defines a series of commands in advance and saves those commands in plain
+text file known as source code or a script.
