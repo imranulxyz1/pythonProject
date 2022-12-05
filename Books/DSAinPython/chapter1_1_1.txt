@@ -1,0 +1,16 @@
+The Python Interpreter
+Python is formally an interpreted language. Commands are executed through a piece of software
+known as the Python interpreter. The interpreter receives a command, evaluates that command, and
+reports the result of the command. While the interpreter can be used interactively, a programmer
+typically stored in a file named with .py suffix
+
+On most operating systems, the Python interpreter can be started by typing python from the command
+line. By default, the interpreters starts in interactive mode with a clean workspace.
+Commands from a predefined script saved in a file are executed by invoking the interpreter
+with the filename as argument, or using an additional -i flag in order to execute a script
+and then enter interactive mode.
+
+Many integrated development environments (IDEs) provide richer software development platforms for
+Python, including one named IDLE that is included with the standard Python distribution.
+IDLE provides an embedded text-editor with support for displaying and editing Python code, and
+a basic debugger, allowing step-by-step execution of a program while examining key variable values.
